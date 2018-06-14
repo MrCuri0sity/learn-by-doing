@@ -1,7 +1,6 @@
 ## Deep Learning cookbook
 [toc]
 ### Models
-#### Deep Boltzmann Machine 
 #### DNN
 #### CNN
 #### RNN
